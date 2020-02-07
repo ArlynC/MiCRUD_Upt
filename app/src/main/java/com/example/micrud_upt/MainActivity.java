@@ -60,4 +60,8 @@ public class MainActivity extends AppCompatActivity {
     public void read(View view) {
         startActivity(new Intent(this, ReadProd.class));
     }
+
+    public void update(View view) {
+        startActivity(new Intent(this,UpdateProd.class));
+    }
 }

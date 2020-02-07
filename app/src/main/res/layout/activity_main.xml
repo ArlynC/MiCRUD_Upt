@@ -13,6 +13,7 @@
         android:text="C reate"
         android:gravity="center_vertical"
         android:textAllCaps="false"
+        android:onClick="create"
         />
     <Button
         android:layout_width="wrap_content"

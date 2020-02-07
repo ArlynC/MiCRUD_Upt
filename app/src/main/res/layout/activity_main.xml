@@ -37,5 +37,6 @@
         android:text="D elete"
         android:gravity="center_vertical"
         android:textAllCaps="false"
+        android:onClick="delete"
         />
 </LinearLayout>

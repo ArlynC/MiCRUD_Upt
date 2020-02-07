@@ -12,7 +12,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
-        <activity android:name=".UpdateProd"></activity>
+        <activity android:name=".DeleteProd"></activity>
+        <activity android:name=".UpdateProd" />
         <activity android:name=".ReadProd" />
         <activity android:name=".CreateProd" />
         <activity android:name=".MainActivity">

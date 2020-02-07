@@ -64,4 +64,8 @@ public class MainActivity extends AppCompatActivity {
     public void update(View view) {
         startActivity(new Intent(this,UpdateProd.class));
     }
+
+    public void delete(View view) {
+        startActivity(new Intent(this,DeleteProd.class));
+    }
 }
